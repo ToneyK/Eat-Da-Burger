@@ -11,12 +11,6 @@ https://toney-eat-da-burger.herokuapp.com/
 
 ![Screen shot](public/assets/img/Screen-Shot.png)
 
-## Technologies used
-- Node.js
-- body-parager NPM Package - https://www.npmjs.com/package/inquirer
-- express NPM Package - https://www.npmjs.com/package/express
-
-
 ### Prerequisites
 
 ```
