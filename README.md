@@ -2,7 +2,7 @@
 
 The Eat-Da-Burger application is using HTML/CSS and Materialize for a front end framework. Node.js and Express for the backend. Handlebars is used for templating. 
 
-You can enter a burger name to add it to the page. Then you can click the burger to devoure the burger :) This will move the data in the database. 
+You can enter a burger name to add it to the page. Then you can click the burger to devour the burger :) This will move the data in the database. 
 
 ## Getting Started
 https://toney-eat-da-burger.herokuapp.com/ 
